@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I am Ovidiu 👋
 
 <!--
 **Piciorus-Ovidiu-Mihai/Piciorus-Ovidiu-Mihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on a angular project generator and open-source template for personal websites
+🌱 I’m currently learning Python and Flutter
+📫 You can reach me on piciorus.ovidiu.mihai@gmail.com
