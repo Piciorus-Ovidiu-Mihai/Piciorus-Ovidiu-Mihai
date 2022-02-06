@@ -28,7 +28,7 @@
 * 🎦 Movies
 * 🏊 Swimming
 * 🎮 Board Games
-* ✈️ Travel
+* ✈️ Traveling
 
 ## 📫 Contact me
 * 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=piciorus.ovidiu.mihai@gmail.com)
