@@ -5,17 +5,17 @@
 * 🏫 Master's student, Applied Informatics in Complex Systems Engineering
 
 ## 🛠 Skills
-* 💻 Angular
-* 📟 Typescript
-* 📟 Javascript
-* 💻 CSS & HTML
-* 📘 .NET Core
-* 🔦 EF Core
-* 🔦 ASP.NET Core
-* 📕 Spring Boot
-* 📙 SQL & MySQL & MongoDB
-* 📙 Firebase
-* 📱 Java Android 
+* 💻 `Angular`
+* 📟 `Typescript`
+* 📟 `Javascript`
+* 💻 `CSS & HTML`
+* 📘 `.NET Core`
+* 🔦 `EF Core`
+* 🔦 `ASP.NET Core`
+* 📕 `Spring Boot`
+* 📙 `SQL & MySQL & MongoDB`
+* 📙 `Firebase`
+* 📱 `Java Android `
 ## 🧠 I'm currently learning
 * 🚀 Flutter
 * 🚀 Angular Schematics
