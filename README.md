@@ -1,5 +1,5 @@
 
-## Hi, I'm Ovidiu! 👋👋👋
+# Hi, I'm Ovidiu! 👋👋👋
 
 * 🏢 Software Engineer
 * 🏫 Master's student, Applied Informatics in Complex Systems Engineering
