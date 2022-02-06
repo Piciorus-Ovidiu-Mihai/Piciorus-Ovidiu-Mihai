@@ -1,18 +1,35 @@
-### Hi there, I am Ovidiu 👋
 
-<!--
-**Piciorus-Ovidiu-Mihai/Piciorus-Ovidiu-Mihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ovidiu! 👋👋👋
 
-Here are some ideas to get you started:
+* 🏢 Software Engineer
+* 🏫 Master's student, Applied Informatics in Complex Systems Engineering
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on a angular project generator and open-source template for personal websites
-🌱 I’m currently learning Python and Flutter
-📫 You can reach me on piciorus.ovidiu.mihai@gmail.com
+## 🛠 Skills
+* 💻 Angular
+* 📟 Typescript
+* 📟 Javascript
+* 💻 CSS & HTML
+* 📘 .NET Core
+* 🔦 EF Core
+* 🔦 ASP.NET Core
+* 📕 Spring Boot
+* 📙 SQL & MySQL & MongoDB
+* 📙 Firebase
+* 📱 Java Android 
+## 🧠 I'm currently learning
+* 🚀 Flutter
+* 🚀 Angular Schematics
+
+
+## 🌍 In my spare time, I enjoy
+* 🎵 Music
+* 🏂 Snowboarding
+* 📒 Science & Technology
+* 🎦 Movies
+* 🏊 Swimming
+* 🎮 Board Games
+* ✈️ Travel
+
+## 📫 Contact me
+* 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=piciorus.ovidiu.mihai@gmail.com)
+* 📮 You can say hi via [Linkedin](https://www.linkedin.com/in/ovidiu-mihai-picioru%C8%99-a0793b19b/)
