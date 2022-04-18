@@ -6,6 +6,7 @@
 
 ## 🛠 Skills
 * 💻 `Angular`
+* 💻 `React`
 * 📟 `Typescript`
 * 📟 `Javascript`
 * 💻 `CSS & HTML`
@@ -16,6 +17,7 @@
 * 📙 `SQL & MySQL & MongoDB`
 * 📙 `Firebase`
 * 📱 `Java Android `
+
 ## 🧠 I'm currently learning
 * 🚀 Flutter
 * 🚀 Angular Schematics
