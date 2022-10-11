@@ -33,5 +33,5 @@
 * ✈️ Traveling
 
 ## 📫 Contact me
-* 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=piciorus.ovidiu.mihai@gmail.com)
+* 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ovidiu.mihai.piciorus@gmail.com)
 * 📮 You can say hi via [Linkedin](https://www.linkedin.com/in/ovidiu-mihai-picioru%C8%99-a0793b19b/)
