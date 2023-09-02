@@ -1,7 +1,7 @@
 
 # Hi, I'm Ovidiu! 👋👋👋
 
-* 🏢 Software Engineer
+* 🏢 Senior Software Engineer
 * 🏫 Master's student, Applied Informatics in Complex Systems Engineering
 
 ## 🛠 Skills
