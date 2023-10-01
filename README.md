@@ -2,7 +2,9 @@
 # Hi, I'm Ovidiu! 👋👋👋
 
 * 🏢 Senior Software Engineer
-* 🏫 Master's student, Applied Informatics in Complex Systems Engineering
+* 💻 Freelancer
+* 🏫 Engineer's degree, Automation and Applied Informatics
+* 🏫 Master's degree, Applied Informatics in Complex Systems Engineering
 
 ## 🛠 Skills
 * 💻 `Angular`
