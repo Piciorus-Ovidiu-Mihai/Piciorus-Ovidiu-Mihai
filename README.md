@@ -1,6 +1,5 @@
 
 # Hi, I'm Ovidiu! 👋👋👋
-
 * 🏢 Senior Software Engineer
 * 💻 Freelancer
 * 🏫 Engineer's degree, Automation and Applied Informatics
@@ -8,22 +7,23 @@
 
 ## 🛠 Skills
 * 💻 `Angular`
+* 💻 `Ionic`
 * 💻 `React`
+* 💻 `Vue`
 * 📟 `Typescript`
 * 📟 `Javascript`
-* 💻 `CSS & HTML`
+* 💻 `SCSS & HTML`
 * 📘 `.NET Core`
 * 🔦 `EF Core`
 * 🔦 `ASP.NET Core`
 * 📕 `Spring Boot`
-* 📙 `SQL & MySQL & MongoDB`
+* 📙 `SQL & MongoDB`
 * 📙 `Firebase`
-* 📱 `Java Android `
+* 📱 `Java Android`
 
 ## 🧠 I'm currently learning
 * 🚀 Flutter
 * 🚀 Angular Schematics
-
 
 ## 🌍 In my spare time, I enjoy
 * 🎵 Music
